@@ -1,3 +1,8 @@
+# My Coding Stats
+
+![Gist Image](https://gist.github.com/tjyana/95191a31fa646390043e008fb64e728a/raw)
+
+
 ## Hi there 👋
 
 <!--
