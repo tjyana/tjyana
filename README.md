@@ -1,4 +1,6 @@
+## Hi there 👋
 
+I'm currently learning Python, machine learning topics, and backend development. 
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 
