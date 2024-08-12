@@ -2,7 +2,6 @@
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 
-![WakaTime Stats](https://gist.github.com/tjyana/95191a31fa646390043e008fb64e728a/raw)
 
 
 ## Hi there 👋
