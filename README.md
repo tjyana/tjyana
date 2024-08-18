@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm currently learning Python, machine learning topics, and backend development. 
+I'm currently learning Python and machine learning topics.
+Here are some of the projects I've done as part of my learning.
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 
